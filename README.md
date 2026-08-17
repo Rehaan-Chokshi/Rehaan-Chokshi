@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rehaan Chokshi</h1>
+<h3 align="center">2nd Year CSE Student | Exploring AI/ML & Cybersecurity</h3>
 
-<!--
-**Rehaan-Chokshi/Rehaan-Chokshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌱 Currently learning Data Structures & Algorithms, Machine Learning fundamentals, and Cybersecurity basics<br>
+  💬 Ask me about Python, Java, or DSA<br>
+  📫 Reach me on <a href="https://www.linkedin.com/in/rehaan-chokshi-03709a377/">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### 📚 Areas of Interest
+
+- **Data Structures & Algorithms** — problem solving and building strong CS fundamentals
+- **AI / Machine Learning** — exploring libraries like NumPy, Pandas, and scikit-learn; learning the basics of supervised learning and neural networks
+- **Cybersecurity** — learning about network security, ethical hacking basics, and tools like Wireshark and Kali Linux
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rehaan-Chokshi&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehaan-Chokshi&hide_border=true" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehaan-Chokshi&layout=compact&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rehaan-chokshi-03709a377/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Always learning, always building 🚀</i></p>

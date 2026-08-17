@@ -31,27 +31,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehaan-Chokshi&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehaan-Chokshi&hide_border=true" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehaan-Chokshi&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rehaan-chokshi-03709a377/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center"><i>Always learning, always building 🚀</i></p>

@@ -1,11 +1,21 @@
-<h1 align="center">Hi 💪🏻, I'm Rehaan </h1>
+<h1 align="center">Hi 👋, I'm Rehaan Chokshi</h1>
 <h3 align="center">2nd Year CSE Student | Exploring AI/ML & Cybersecurity</h3>
 
 <p align="center">
-   Currently learning Data Structures & Algorithms, Machine Learning fundamentals, and Cybersecurity basics<br>
-
-   Reach me on <a href="https://www.linkedin.com/in/rehaan-chokshi-03709a377/">LinkedIn</a>
+  🌱 Currently learning Data Structures & Algorithms, Machine Learning fundamentals, and Cybersecurity basics<br>
+  💬 Ask me about Python, Java, or DSA<br>
+  📫 Reach me on <a href="https://www.linkedin.com/in/rehaan-chokshi-03709a377/">LinkedIn</a>
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rehaan-Chokshi/Rehaan-Chokshi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rehaan-Chokshi/Rehaan-Chokshi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rehaan-Chokshi/Rehaan-Chokshi/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -23,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### Areas of Interest
+### 📚 Areas of Interest
 
 - **Data Structures & Algorithms** — problem solving and building strong CS fundamentals
 - **AI / Machine Learning** — exploring libraries like NumPy, Pandas, and scikit-learn; learning the basics of supervised learning and neural networks
@@ -31,5 +41,14 @@
 
 ---
 
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rehaan-chokshi-03709a377/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center"><i>Always learning, always building 🚀</i></p>

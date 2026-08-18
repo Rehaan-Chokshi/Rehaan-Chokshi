@@ -9,16 +9,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rehaan-Chokshi/Rehaan-Chokshi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rehaan-Chokshi/Rehaan-Chokshi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rehaan-Chokshi/Rehaan-Chokshi/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -41,13 +31,11 @@
 
 ---
 
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rehaan-chokshi-03709a377/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rehaan-Chokshi/Rehaan-Chokshi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rehaan-Chokshi/Rehaan-Chokshi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rehaan-Chokshi/Rehaan-Chokshi/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 

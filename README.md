@@ -2,8 +2,7 @@
 <h3 align="center">2nd Year CSE Student | Exploring AI/ML & Cybersecurity</h3>
 
 <p align="center">
-  🌱 Currently learning Data Structures & Algorithms, Machine Learning fundamentals, and Cybersecurity basics<br>
-  💬 Ask me about Python, Java, or DSA<br>
+   Currently learning Data Structures & Algorithms, Machine Learning fundamentals, and Cybersecurity basics<br>
   📫 Reach me on <a href="https://www.linkedin.com/in/rehaan-chokshi-03709a377/">LinkedIn</a>
 </p>
 

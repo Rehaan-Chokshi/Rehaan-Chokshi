@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rehaan Chokshi</h1>
+<h1 align="center">Hi 💪🏻, I'm Rehaan Chokshi</h1>
 <h3 align="center">2nd Year CSE Student | Exploring AI/ML & Cybersecurity</h3>
 
 <p align="center">
